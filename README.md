@@ -1,4 +1,3 @@
-YOLO_DataTrain.ipynb is used train the dataset.
 Dataset has been prepared using roboflow on 100 mris of brain.
 It aims to recognize 2 parts, mid brain and pons.
 
